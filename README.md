@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marko-polo-code" alt="marko-polo-code" /></a> </p>
 
-- 🔭 I’m currently working on **Greenpath**
+- 🔭 I’m currently working on **Greenpath** - the eco-friendly habit tracker.
 
 - 🌱 I’m currently learning **Ruby and Python**
 
-- 👯 I’m looking to collaborate on **Friend-it**
+- 👯 I’m looking to collaborate on **Friend-it** - a flat swap application 
 
 - 📫 How to reach me **mark.muller.code@gmail.com**
 
