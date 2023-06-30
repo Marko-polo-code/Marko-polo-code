@@ -5,6 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marko-polo-code" alt="marko-polo-code" /></a> </p>
 
+<h5 align="left">CodeWars</h5>
+<p align="left"> <a href="https://www.codewars.com/users/marko-polo-code/badges/large"><img src="https://www.codewars.com/users/marko-polo-code/badges/large" alt="marko-polo-code" /></a> </p>
+
+<h3 align="left">My current projects:</h3>
+
 - 🔭 I’m currently working on **Greenpath** - the eco-friendly habit tracker.
 
 - 🌱 I’m currently learning **Ruby and Python**
