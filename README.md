@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="center">A passionate fullstack developer</h3>
-  <a><img src="https://media.giphy.com/media/G6sJqVpD1U4jC/giphy.gif"></a>
+  <a><img src="https://media.giphy.com/media/7w3tBQ0vvnevzvsQS6/giphy.gif"></a>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marko-polo-code&label=Profile%20views&color=0e75b6&style=flat" alt="marko-polo-code" /> </p>
