@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="center">A passionate fullstack developer</h3>
-  <a><img src="https://media.giphy.com/media/qRoR5uJQS8wWpD0mwy/giphy.gif"></a>
+  <a><img src="https://media.giphy.com/media/fUXcdZOWmkzdCaPSrR/giphy.gif"></a>
 </div>
 
 <h3 align="left">My current projects:</h3>
