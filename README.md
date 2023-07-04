@@ -15,15 +15,12 @@
 
 - 📫 How to reach me **mark.muller.code@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
+<h5>Github badges</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marko-polo-code&label=Profile%20views&color=0e75b6&style=flat" alt="marko-polo-code" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marko-polo-code" alt="marko-polo-code" /></a> </p>
 
-<h5 align="left">CodeWars</h5>
+<h5 align="left">CodeWars badge</h5>
 <p align="left"> <a href="https://www.codewars.com/users/marko-polo-code/badges/large"><img src="https://www.codewars.com/users/marko-polo-code/badges/large" alt="marko-polo-code" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
