@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3 align="center">A passionate fullstack developer</h3>
-  <a><img src="https://media.giphy.com/media/fUXcdZOWmkzdCaPSrR/giphy.gif"></a>
+  <a><img src="https://media.giphy.com/media/z5hBmhMJVY0WmGKwtt/giphy.gif"></a>
 </div>
 
 <h3 align="left">My current projects:</h3>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Ruby and Python**
 
-- 👯 I’m looking to collaborate on **Friend-it** - a flat swap application 
+- 👯 I’m looking to collaborate on **Friend-it** - a flat swaping application 
 
 - 📫 How to reach me **mark.muller.code@gmail.com**
 
