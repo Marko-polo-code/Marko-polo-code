@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mark</h1>
+# <h1 align="center">Hi 👋, I'm Mark</h1>
 
 <div align="center">
   <h3 align="center">A passionate fullstack developer</h3>
-  <a><img src="https://media.giphy.com/media/7w3tBQ0vvnevzvsQS6/giphy.gif"></a>
+  <a><img src="https://media.giphy.com/media/YQOwbiNGFIiy5rDydt/giphy.gif" width="800px"></a>
 </div>
 
 <h3 align="left">My current projects:</h3>
