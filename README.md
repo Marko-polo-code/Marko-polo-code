@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Greenpath** - the eco-friendly habit tracker.
 
-- 🌱 I’m currently learning **Ruby and Python**
+- 🌱 I’m currently learning **Javascript, Ruby and Python**
 
 - 👯 I’m looking to collaborate on **Friend-it** - a flat swaping application 
 
